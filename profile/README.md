@@ -4,6 +4,14 @@
 
 ## Research Works
 
+[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VIPL-EPP&repo=Plan-R1&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-EPP/Plan-R1)
+&nbsp;&nbsp;
+[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VIPL-EPP&repo=TaskTP&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-EPP/TaskTP)
+
+[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VIPL-EPP&repo=PreLAR&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-EPP/PreLAR)
+&nbsp;&nbsp;
+[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VIPL-EPP&repo=HPNet&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-EPP/HPNet)
+
 [<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LiuDongyang6&repo=METR&description_lines_count=2&show_owner=true" />](https://github.com/LiuDongyang6/METR)
 &nbsp;&nbsp;
 [<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VIPL-GENUN&repo=Jodi&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-GENUN/Jodi)
