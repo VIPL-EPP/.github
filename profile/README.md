@@ -8,6 +8,8 @@
 &nbsp;&nbsp;
 [<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VIPL-EPP&repo=TaskTP&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-EPP/TaskTP)
 
+[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VIPL-EPP&repo=MLLM-IC&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-EPP/MLLM-IC)
+
 [<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VIPL-EPP&repo=PreLAR&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-EPP/PreLAR)
 &nbsp;&nbsp;
 [<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VIPL-EPP&repo=HPNet&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-EPP/HPNet)
