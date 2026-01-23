@@ -6,7 +6,7 @@
 
 [<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VIPL-EPP&repo=Plan-R1&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-EPP/Plan-R1)
 &nbsp;&nbsp;
-[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VIPL-EPP&repo=CoMaR&description_lines_count=2&show_owner=true" />](https://github.com/jefferson814/CoMaR)
+[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VIPL-EPP&repo=CoMaR&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-EPP/CoMaR)
 
 [<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VIPL-EPP&repo=MLLM-IC&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-EPP/MLLM-IC)
 &nbsp;&nbsp;
