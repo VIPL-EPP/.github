@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Embodied Perception and Planning Group</h1>
 
 ## Research Works
@@ -134,4 +133,3 @@ Repo: https://github.com/anuraghazra/github-readme-stats
     </td>
   </tr>
 </table>
-```
